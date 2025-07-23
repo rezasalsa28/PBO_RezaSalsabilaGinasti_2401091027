@@ -1,6 +1,6 @@
-# Nama : Reza Salsabila Ginasti #
-# Nim : 2401091027 #
-# Kelas : MI 1C #
+ Nama : Reza Salsabila Ginasti 
+ Nim : 2401091027 
+ Kelas : MI 1C 
 
 Pada Praktek tanggal 20-02-25, mengerjakan aritmatika, operator relasi, variabel 1 dan variabel dua. Dari modul 4, 
 yang di mana saya menyalin dan memahami apa yang ada di modul tersebut dan mencobanya.Dan juga masa beradaptasi dengan java.
